@@ -7,12 +7,14 @@
 🌎 [My Website][My Website] **|** 
 📰 [Twitter][Twitter] **|** 
 💻 [Youtube][Youtube] **|** 
-🎥 [Twitch][Twitch] **|** 
+🎥 [Twitch][Twitch] **|**
+📩 [Telegram][Telegram]
 
 [My Website]: https://Firzjberg.ru
 [Twitter]: https://twitter.com/DenisFirzjberg
 [Youtube]: https://youtube.com/firzjlive
 [Twitch]: https://twitch.tv/nibelur
+[Telegram]: https://t.me/nibelur
 <!---
 Nibelar/Nibelar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
