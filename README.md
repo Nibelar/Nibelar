@@ -29,13 +29,17 @@ I specialize in front-end development, but I also have experience with translati
 Feel free to reach out to me via LinkedIn or email if you'd like to chat or collaborate on a project!
 
 ## Skills
-
-- HTML5
-- CSS3 + Tailwind
-- JavaScript (Basics)
-- Vue
-- Node.js
-- WordPress
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/html.png" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/css.png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/tailwind.png" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/js.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/vue.png" width="36" height="36" alt="Vue" /></a>
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/wordpress.png" width="36" height="36" alt="wordpress" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/nodejs.png" width="36" height="36" alt="nodejs" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/photoshop.png" width="36" height="36" alt="photoshop" /></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://dbykovski.netlify.app/img/stack/premierepro.png" width="36" height="36" alt="premierepro" /></a>
+</p>
 
 ## Languages
 
