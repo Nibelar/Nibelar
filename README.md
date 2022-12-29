@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nibelur aka. Firzj
+- 🌱 I’m a Freelance Frontend Developer and Translator.
 - 👀 I’m interested in HTML, CSS, JS, MySQL, Hostings, Troubleshooting, Video/Image Editing, Translating, SEO and Modding tools (maps, quests, items, scripts).
-- 🌱 I’m currently learning CSS, JS
 - 📫 How to reach me:
 
 
