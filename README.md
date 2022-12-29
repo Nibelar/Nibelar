@@ -36,3 +36,8 @@ Feel free to reach out to me via LinkedIn or email if you'd like to chat or coll
 - Vue
 - Node.js
 - WordPress
+
+## Languages
+
+- Russian (Native)
+- English (C1)
