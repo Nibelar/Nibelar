@@ -13,7 +13,7 @@
 🎥 [Twitch][Twitch] **|**
 📩 [Telegram][Telegram]
 
-[My Website]: https://Firzjberg.ru
+[My Website]: https://Firzj.com
 [My Portfolio]: https://dbykovski.netlify.app
 [LinkedIn]: https://www.linkedin.com/in/denisbykovski/
 [Twitter]: https://twitter.com/DenisFirzjberg
